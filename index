@@ -1,0 +1,16 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header> <!-- Logo & Navigation --> </header>
+    <section id="about"> <!-- About Me & Info --> </section>
+    <section id="skills"> <!-- Skills Section --> </section>
+    <section id="projects"> <!-- Project Showcase --> </section>
+    <section id="contact"> <!-- Contact Form/Links --> </section>
+    <footer> <!-- Footer --> </footer>
+</body>
+</html>
