@@ -1,0 +1,6 @@
+/* style.css */
+body { font-family: sans-serif; margin: 0; }
+header { display: flex; justify-content: space-between; }
+#about { background-image: url('...'); padding: 50px; }
+#projects { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); }
+/* Add more styles for sections, hover effects, and media queries */
